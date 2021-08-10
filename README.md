@@ -1,4 +1,4 @@
-# Hi there 👋, I'm <a href="https://rakeshmr.netlify.app" target="_blank">Rakesh</a>!
+# Hi there 👋, I'm <a href="https://rakeshmr.netlify.app" target="_blank">Rakesh Mariyaplar</a>!
 
 
 <a href="https://rakeshmr.netlify.app" target="_blank"><img align="left" alt="https://rakeshmr.netlify.app" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
