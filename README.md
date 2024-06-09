@@ -8,4 +8,4 @@
 <br />
 <br />
   
-[![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://rakeshmr.netlify.app/)
+[![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=cobalt)](https://rakeshmr.netlify.app/)
