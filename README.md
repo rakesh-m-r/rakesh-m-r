@@ -9,5 +9,4 @@
 <br />
   
 [![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=cobalt)](https://rakeshmr.netlify.app/)</br>
-![rakesh-m-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=cobalt&hide_border=false)</br>
-![rakesh-m-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-m-r&theme=cobalt&show_icons=true&hide_border=false&layout=compact)</br>
+![rakesh-m-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=cobalt&hide_border=false)</br>![rakesh-m-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-m-r&theme=cobalt&show_icons=true&hide_border=false&layout=compact)</br>
