@@ -7,4 +7,9 @@
 <a href="https://twitter.com/rakesh_m_r_" target="_blank"><img align="left" alt="Rakesh M R | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <br />
 <br />
-![rakesh-m-r's Stats](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&theme=cobalt&show_icons=true&hide_border=false&count_private=true)</br>
+
+![](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=cobalt&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-m-r&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
