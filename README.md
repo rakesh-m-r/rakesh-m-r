@@ -8,8 +8,5 @@
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=cobalt&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-m-r&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-
+![](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=react&hide_border=false)<br/><br/>
