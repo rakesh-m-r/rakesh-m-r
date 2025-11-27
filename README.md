@@ -1,9 +1,9 @@
 # Hey there 👋  
 
-# Hi there 👋, I'm <a href="https://rakeshmr.netlify.app" target="_blank">Rakesh Mariyaplar</a>!
+# Hi there 👋, I'm <a href="https://rakeshmr.in" target="_blank">Rakesh Mariyaplar</a>!
 
 - 💻 Working with **React**, **Next.js**, and **TypeScript**
-- 🌱 Always exploring new ideas in **frontend performance** and **DX**
+- 🌱 Always exploring new ideas in **frontend performance**
 - ✨ I believe small UI details create big user trust
 
 ---
