@@ -15,8 +15,11 @@ React | TypeScript | Next.js | Tailwind | Jest | Redux | Figma | Javascript | Py
 
 
 ### 📈 Stats
-![](https://github-readme-stats.vercel.app/api?username=rakesh-m-r&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh-m-r&theme=react&hide_border=false)<br/><br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakesh-m-r&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh-m-r&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakesh-m-r&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh-m-r&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakesh-m-r&theme=github)
 
 ---
 
