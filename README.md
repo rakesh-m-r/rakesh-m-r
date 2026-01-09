@@ -2,24 +2,22 @@
 
 # Hi there 👋, I'm <a href="https://rakeshmr.in" target="_blank">Rakesh Mariyaplar</a>!
 
-- 💻 Working with **React**, **Next.js**, and **TypeScript**
-- 🌱 Always exploring new ideas in **frontend performance**
-- ✨ I believe small UI details create big user trust
+- 💻 Working with **React**, **Next.js**, and **TypeScript** and other frontend stack
 
 ---
 
 ### ⚙️ Tech Stack
-React | TypeScript | Next.js | Tailwind | Jest | Redux | Figma | Javascript | Python | MySQL
+React | TypeScript | Next.js | Tailwind | Jest | Redux | Figma | Javascript | Python | MySQL | GraphQL
 
 ---
 
 
 ### 📈 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakesh-m-r&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh-m-r&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakesh-m-r&theme=github&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh-m-r&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakesh-m-r&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakesh-m-r&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakesh-m-r&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakesh-m-r&theme=solarized&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakesh-m-r&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakesh-m-r&theme=solarized)
 
 ---
 
